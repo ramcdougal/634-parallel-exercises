@@ -11,7 +11,7 @@ ny = 1536
 dx = (xhi - xlo) / nx
 dy = (yhi - ylo) / ny
 
-iter_limit = 100
+iter_limit = 200
 set_threshold = 2
 
 def mandelbrot_test(x, y):
